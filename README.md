@@ -7,10 +7,29 @@
 
 - 📫 How to reach me **andydieujustesr@gmail.com**
 
-<h3 align="left"> 🎖️ Certifications </h3>
-- [Red Hat Certified System Administrator (RHCSA)](https://www.credly.com/badges/c03f0319-b982-490a-9ec9-12d78ea97b49/public_url)
-- [CompTIA Security+](https://www.credly.com/badges/8c7a1017-572d-4e08-93cd-b156aaa0b675/public_url)
-- [CompTIA Network+](https://www.credly.com/badges/c36469ce-c1cc-4460-9459-f6483f53bd29/public_url)
+## 📜 [Certifications](https://www.credly.com/users/andydsr/badges)
+
+Here you can find a list of all my verified certifications, including:
+- Red Hat Certified System Administrator (RHCSA)![Red Hat Certified System Administrator (RHCSA)](https://images.credly.com/size/160x160/images/572de0ba-2c59-4816-a59d-b0e1687e45ee/image.png)
+- CompTIA Security+![CompTIA Security+](https://images.credly.com/size/160x160/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob)
+- CompTIA Network+![CompTIA Network+](https://images.credly.com/size/160x160/images/3746480e-1d97-41f8-b27a-0b798d235306/CompTIA_Network_2B.png)
+
+> Visit [my full Credly profile](https://www.credly.com/users/andydsr/badges) to see them all.
+
+
+## 🚀 Featured Projects
+
+Here are some of the projects I'm most proud of:
+
+### [📘 Project Name 1](https://github.com/andyd1999/project1)
+A brief description of what the project does, the tech stack used, and any notable achievements or features.
+
+### [🔧 Project Name 2](https://github.com/andyd1999/project2)
+Short description of this project — maybe what you learned or the problem it solves.
+
+### [🌐 Project Name 3](https://github.com/andyd1999/project3)
+Why it stands out, whether it's live, and who might find it useful.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
