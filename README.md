@@ -7,6 +7,11 @@
 
 - 📫 How to reach me **andydieujustesr@gmail.com**
 
+<h3 align="left"> 🎖️ Certifications </h3>
+- [Red Hat Certified System Administrator (RHCSA)](https://www.credly.com/badges/c03f0319-b982-490a-9ec9-12d78ea97b49/public_url)
+- [CompTIA Security+](https://www.credly.com/badges/8c7a1017-572d-4e08-93cd-b156aaa0b675/public_url)
+- [CompTIA Network+](https://www.credly.com/badges/c36469ce-c1cc-4460-9459-f6483f53bd29/public_url)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/andy-dieujuste" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andy-dieujuste" height="30" width="40" /></a>
